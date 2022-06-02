@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **TreatmentGO API**
 
-- 👨‍💻 All of my projects are available at [jason-swinehart.netlify.app](jason-swinehart.netlify.app)
+- 👨‍💻 [jason-swinehart.netlify.app](jason-swinehart.netlify.app)
 
 - 📫 How to reach me **ubiquitousunconscious@gmail.com**
 
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/swineytoad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swineytoad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jason-swinehart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-swinehart" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/libens-bufo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="libens-bufo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/promptus153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="libens-bufo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
