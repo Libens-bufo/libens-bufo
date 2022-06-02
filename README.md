@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **TreatmentGO API**
 
-- 👨‍💻 [jason-swinehart.netlify.app](http://www.jason-swinehart.netlify.app)
+- 👨‍💻 [jason-swinehart.netlify.app](www.jason-swinehart.netlify.app)
 
 - 📫 How to reach me **ubiquitousunconscious@gmail.com**
 
